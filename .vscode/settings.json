@@ -38,5 +38,6 @@
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "FiraCode, 'Courier New', monospace",
     "editor.fontSize": 18,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
