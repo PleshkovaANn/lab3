@@ -39,5 +39,7 @@
     "editor.fontFamily": "FiraCode, 'Courier New', monospace",
     "editor.fontSize": 18,
     "editor.formatOnSave": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "maven.view": "flat",
     "java.configuration.updateBuildConfiguration": "interactive"
 }
